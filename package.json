@@ -24,7 +24,7 @@
     "node": ">= 0.8.0"
   },
   "dependencies": {
-    "apimocker": ">= 0.1.7"
+    "apimocker": "https://github.com/pietvanzoen/apimocker/tarball/c1cd4eb56b97216f1f78c3a01f51507ccee6cc8f"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.0",
